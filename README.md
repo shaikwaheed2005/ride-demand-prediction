@@ -51,7 +51,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-(Will be added after deployment)
+https://ride-demand-prediction-pu2mc5arb34u2mrjs78emq.streamlit.app/
 
 ---
 
