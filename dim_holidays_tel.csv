@@ -1,0 +1,55 @@
+date,holiday_name,holiday_year,holiday_type,holiday_category,holiday_weight,is_public_holiday
+2024-01-01T00:00:00.000Z,New Year Day,2024,GENERAL,State/Other,1.4,1
+2024-01-14T00:00:00.000Z,Bhogi,2024,GENERAL,State/Other,1.4,1
+2024-01-15T00:00:00.000Z,Sankranti / Pongal,2024,GENERAL,Festival,1.4,1
+2024-01-26T00:00:00.000Z,Republic Day,2024,GENERAL,National,1.4,1
+2024-03-08T00:00:00.000Z,Maha Shivaratri,2024,GENERAL,State/Other,1.4,1
+2024-03-25T00:00:00.000Z,Holi,2024,GENERAL,State/Other,1.4,1
+2024-03-29T00:00:00.000Z,Good Friday,2024,GENERAL,Religious,1.4,1
+2024-04-05T00:00:00.000Z,Babu Jagjivan Ram's Birthday,2024,GENERAL,State/Other,1.4,1
+2024-04-09T00:00:00.000Z,Ugadi,2024,GENERAL,Festival,1.4,1
+2024-04-11T00:00:00.000Z,Eid ul Fitr (Ramzan),2024,GENERAL,Religious,1.4,1
+2024-04-12T00:00:00.000Z,Following Day of Ramzan,2024,GENERAL,Religious,1.4,1
+2024-04-14T00:00:00.000Z,Dr. B.R. Ambedkar's Birthday,2024,GENERAL,National,1.4,1
+2024-04-17T00:00:00.000Z,Sri Rama Navami,2024,GENERAL,State/Other,1.4,1
+2024-06-17T00:00:00.000Z,Eid ul Azha (Bakrid),2024,GENERAL,Religious,1.4,1
+2024-07-17T00:00:00.000Z,Shahadat Imam Hussain (R.A.) 10th Moharram,2024,GENERAL,Religious,1.4,1
+2024-07-29T00:00:00.000Z,Bonalu,2024,GENERAL,Festival,1.4,1
+2024-08-15T00:00:00.000Z,Independence Day,2024,GENERAL,National,1.4,1
+2024-08-26T00:00:00.000Z,Sri Krishna Ashtami (Janmashtami),2024,GENERAL,State/Other,1.4,1
+2024-09-07T00:00:00.000Z,Vinayaka Chavithi,2024,GENERAL,Festival,1.4,1
+2024-09-16T00:00:00.000Z,Eid Milad un Nabi,2024,GENERAL,Religious,1.4,1
+2024-10-02T00:00:00.000Z,Mahatma Gandhi Jayanthi / Bathukamma Starts,2024,GENERAL,National,1.4,1
+2024-10-12T00:00:00.000Z,Vijaya Dasami,2024,GENERAL,Festival,1.4,1
+2024-10-13T00:00:00.000Z,Following Day of Vijaya Dasami,2024,GENERAL,Festival,1.4,1
+2024-10-31T00:00:00.000Z,Deepavali,2024,GENERAL,Festival,1.4,1
+2024-11-15T00:00:00.000Z,Kartika Purnima / Guru Nanak's Birthday,2024,GENERAL,State/Other,1.4,1
+2024-12-25T00:00:00.000Z,Christmas,2024,GENERAL,Religious,1.4,1
+2024-12-26T00:00:00.000Z,Following Day of Christmas (Boxing Day),2024,GENERAL,Religious,1.4,1
+2025-01-01T00:00:00.000Z,New Year Day,2025,GENERAL,State/Other,1.4,1
+2025-01-13T00:00:00.000Z,Bhogi,2025,GENERAL,State/Other,1.4,1
+2025-01-14T00:00:00.000Z,Sankranti / Pongal,2025,GENERAL,Festival,1.4,1
+2025-01-26T00:00:00.000Z,Republic Day,2025,GENERAL,National,1.4,1
+2025-02-26T00:00:00.000Z,Maha Shivaratri,2025,GENERAL,State/Other,1.4,1
+2025-03-14T00:00:00.000Z,Holi,2025,GENERAL,State/Other,1.4,1
+2025-03-30T00:00:00.000Z,Ugadi,2025,GENERAL,Festival,1.4,1
+2025-03-31T00:00:00.000Z,Eid ul Fitr (Ramzan),2025,GENERAL,Religious,1.4,1
+2025-04-01T00:00:00.000Z,Following Day of Ramzan,2025,GENERAL,Religious,1.4,1
+2025-04-05T00:00:00.000Z,Babu Jagjivan Ram's Birthday,2025,GENERAL,State/Other,1.4,1
+2025-04-14T00:00:00.000Z,Dr. B.R. Ambedkar's Birthday,2025,GENERAL,National,1.4,1
+2025-04-18T00:00:00.000Z,Good Friday,2025,GENERAL,Religious,1.4,1
+2025-06-06T00:00:00.000Z,Sri Rama Navami,2025,GENERAL,State/Other,1.4,1
+2025-06-07T00:00:00.000Z,Eid ul Azha (Bakrid),2025,GENERAL,Religious,1.4,1
+2025-07-06T00:00:00.000Z,Shahadat Imam Hussain (R.A.) 10th Moharram,2025,GENERAL,Religious,1.4,1
+2025-07-21T00:00:00.000Z,Bonalu,2025,GENERAL,Festival,1.4,1
+2025-08-15T00:00:00.000Z,Independence Day,2025,GENERAL,National,1.4,1
+2025-08-16T00:00:00.000Z,Sri Krishna Ashtami (Janmashtami),2025,GENERAL,State/Other,1.4,1
+2025-08-27T00:00:00.000Z,Vinayaka Chavithi,2025,GENERAL,Festival,1.4,1
+2025-09-05T00:00:00.000Z,Eid Milad un Nabi,2025,GENERAL,Religious,1.4,1
+2025-10-01T00:00:00.000Z,Mahatma Gandhi Jayanthi / Bathukamma Starts,2025,GENERAL,National,1.4,1
+2025-10-02T00:00:00.000Z,Mahatma Gandhi Jayanthi,2025,GENERAL,National,1.4,1
+2025-10-03T00:00:00.000Z,Following Day of Vijaya Dasami,2025,GENERAL,Festival,1.4,1
+2025-10-20T00:00:00.000Z,Deepavali,2025,GENERAL,Festival,1.4,1
+2025-11-05T00:00:00.000Z,Kartika Purnima / Guru Nanak's Birthday,2025,GENERAL,State/Other,1.4,1
+2025-12-25T00:00:00.000Z,Christmas,2025,GENERAL,Religious,1.4,1
+2025-12-26T00:00:00.000Z,Following Day of Christmas (Boxing Day),2025,GENERAL,Religious,1.4,1
